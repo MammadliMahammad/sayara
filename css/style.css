@@ -1,0 +1,331 @@
+#seccart .allboxescart {
+  width: 80%;
+  height: auto;
+  margin-top: 20vh;
+  margin: auto;
+}
+#seccart .allboxescart .box1 {
+  display: flex;
+  justify-content: space-between;
+}
+#seccart .allboxescart .box1 img {
+  width: 70px;
+}
+#seccart .allboxescart .box1 a {
+  margin-top: 20px;
+  text-decoration: none;
+  color: black;
+}
+#seccart .allboxescart .box2 {
+  display: flex;
+  justify-content: space-between;
+}
+#seccart .allboxescart .box2 .mr {
+  color: grey;
+}
+#seccart .allboxescart .box2 .pr {
+  color: grey;
+}
+#seccart .allboxescart .box3 {
+  margin-top: 20px;
+}
+#seccart .allboxescart .box3 span {
+  color: grey;
+}
+#seccart .allboxescart .box3 input {
+  padding: 10px 0;
+  width: 100%;
+  border-radius: 50px;
+  border: 1px solid gray;
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+}
+#seccart .allboxescart .box4 {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+#seccart .allboxescart .box4 .mr {
+  color: grey;
+}
+#seccart .allboxescart .box4 .pr {
+  color: grey;
+}
+#seccart .allboxescart .box5 input {
+  padding: 10px 0;
+  width: 100%;
+  border-radius: 50px;
+  border: 1px solid gray;
+  margin-top: 35px;
+  display: flex;
+  justify-content: center;
+}
+#seccart .allboxescart .box5 button {
+  padding: 10px 0;
+  width: 100%;
+  border-radius: 50px;
+  background-color: rgb(252, 43, 43);
+  border: 1px solid rgb(252, 43, 43);
+  color: white;
+  font-size: 18px;
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+#seccart2 .allboxescart2 {
+  width: 80%;
+  height: 50vh;
+  margin-top: 20vh;
+  margin: auto;
+}
+#seccart2 .allboxescart2 h2 {
+  margin-top: 100px;
+  color: #333333;
+  font-size: 32px;
+}
+#seccart2 .allboxescart2 .box1 {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid rgb(203, 203, 203);
+  padding: 17px 30px;
+}
+#seccart2 .allboxescart2 .box1 .mr {
+  color: grey;
+  font-size: 16px;
+}
+#seccart2 .allboxescart2 .box1 .pr {
+  color: grey;
+  font-size: 16px;
+}
+#seccart2 .allboxescart2 .box2 {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid rgb(203, 203, 203);
+  padding: 17px 30px;
+}
+#seccart2 .allboxescart2 .box2 .mr {
+  font-weight: bolder;
+  color: #272727;
+  font-size: 16px;
+}
+#seccart2 .allboxescart2 .box2 .pr {
+  color: grey;
+  font-size: 16px;
+}
+#seccart2 .allboxescart2 button {
+  padding: 8px 0;
+  width: 270px;
+  border-radius: 50px;
+  background-color: rgb(252, 43, 43);
+  border: 1px solid rgb(252, 43, 43);
+  color: white;
+  font-size: 18px;
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+#seccart3 {
+  display: none;
+  margin-top: 20vh;
+}
+#seccart3 .allboxescart3 {
+  width: 75%;
+  height: auto;
+  margin-top: 20vh;
+  margin: auto;
+}
+#seccart3 .allboxescart3 .box1 {
+  width: 2%;
+}
+#seccart3 .allboxescart3 .box2 {
+  width: 8%;
+}
+#seccart3 .allboxescart3 .box3 {
+  width: 17%;
+}
+#seccart3 .allboxescart3 .box3 span {
+  font-weight: bolder;
+  font-size: 16px;
+  color: gray;
+  display: flex;
+  justify-content: center;
+}
+#seccart3 .allboxescart3 .box4 {
+  width: 15%;
+}
+#seccart3 .allboxescart3 .box4 span {
+  font-weight: bolder;
+  font-size: 16px;
+  color: gray;
+  display: flex;
+  justify-content: center;
+}
+#seccart3 .allboxescart3 .box5 {
+  width: 40%;
+}
+#seccart3 .allboxescart3 .box5 span {
+  font-weight: bolder;
+  font-size: 16px;
+  color: gray;
+}
+#seccart3 .allboxescart3 .box6 {
+  width: 18%;
+}
+#seccart3 .allboxescart3 .box6 span {
+  font-weight: bolder;
+  font-size: 16px;
+  color: gray;
+}
+#seccart3 .allboxescart3 .box7 {
+  width: 2%;
+}
+#seccart3 .allboxescart3 .box7 a {
+  color: red;
+  text-decoration: none;
+}
+#seccart3 .allboxescart3 .box8 {
+  width: 8%;
+}
+#seccart3 .allboxescart3 .box8 img {
+  width: 50px;
+}
+#seccart3 .allboxescart3 .box9 {
+  width: 17%;
+}
+#seccart3 .allboxescart3 .box9 span {
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+}
+#seccart3 .allboxescart3 .box10 {
+  width: 15%;
+}
+#seccart3 .allboxescart3 .box10 span {
+  font-size: 16px;
+  color: gray;
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+}
+#seccart3 .allboxescart3 .box11 {
+  width: 40%;
+}
+#seccart3 .allboxescart3 .box11 input {
+  padding: 10px 0;
+  width: 90%;
+  border-radius: 50px;
+  border: 1px solid gray;
+  display: flex;
+  justify-content: center;
+}
+#seccart3 .allboxescart3 .box12 {
+  width: 18%;
+}
+#seccart3 .allboxescart3 .box12 span {
+  font-size: 16px;
+  color: gray;
+}
+#seccart3 .allboxescart3 .nextbox {
+  justify-content: space-around;
+}
+#seccart3 .allboxescart3 .nextbox input {
+  padding: 10px 0;
+  width: 40%;
+  height: 8vh;
+  border-radius: 50px;
+  border: 1px solid gray;
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+#seccart3 .allboxescart3 .nextbox button {
+  padding: 10px 0;
+  width: 29%;
+  height: 8vh;
+  border-radius: 50px;
+  background-color: rgb(252, 43, 43);
+  border: 1px solid rgb(252, 43, 43);
+  color: white;
+  font-size: 18px;
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+#seccart4 {
+  width: 100%;
+  display: none;
+}
+#seccart4 .allboxescart2 {
+  width: 40%;
+  height: 50vh;
+  margin-top: 20vh;
+  margin-left: 50%;
+}
+#seccart4 .allboxescart2 h2 {
+  margin-top: 100px;
+  color: #333333;
+  font-size: 32px;
+}
+#seccart4 .allboxescart2 .box1 {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid rgb(203, 203, 203);
+  padding: 17px 30px;
+}
+#seccart4 .allboxescart2 .box1 .mr {
+  color: grey;
+  font-size: 16px;
+}
+#seccart4 .allboxescart2 .box1 .pr {
+  color: grey;
+  font-size: 16px;
+}
+#seccart4 .allboxescart2 .box2 {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid rgb(203, 203, 203);
+  padding: 17px 30px;
+}
+#seccart4 .allboxescart2 .box2 .mr {
+  font-weight: bolder;
+  color: #272727;
+  font-size: 16px;
+}
+#seccart4 .allboxescart2 .box2 .pr {
+  color: grey;
+  font-size: 16px;
+}
+#seccart4 .allboxescart2 button {
+  padding: 8px 0;
+  width: 270px;
+  border-radius: 50px;
+  background-color: rgb(252, 43, 43);
+  border: 1px solid rgb(252, 43, 43);
+  color: white;
+  font-size: 18px;
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  #seccart {
+    display: none;
+  }
+  #seccart2 {
+    display: none;
+  }
+  #seccart3 {
+    display: block;
+  }
+  #seccart4 {
+    display: block;
+  }
+}/*# sourceMappingURL=style.css.map */
